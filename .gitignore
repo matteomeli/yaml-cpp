@@ -1,3 +1,7 @@
 build/
 /tags
 /bazel-*
+
+# Premake
+Bin/
+Intermediates/
