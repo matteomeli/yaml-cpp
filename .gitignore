@@ -5,3 +5,7 @@ build/
 # Premake
 Bin/
 Intermediates/
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
